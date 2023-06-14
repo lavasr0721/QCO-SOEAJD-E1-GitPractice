@@ -9,6 +9,8 @@ public class demo {
 		System.out.println("updates");
 
 		System.out.println("changes");
+		
+		System.out.println("Test script updated TC_001");
 
 	}
 
